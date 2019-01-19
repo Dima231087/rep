@@ -1,1 +1,1 @@
-python first.py
+web: python first.py:app
